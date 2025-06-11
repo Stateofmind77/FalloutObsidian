@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Fallout RPG Resource
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Work in progress. See explorer for pages
